@@ -1,4 +1,4 @@
-# go-webapp-sample
+# go-webapp-project
 ## Preface
 This repository is the sample of web application using golang.
 This sample uses [Echo](https://echo.labstack.com/) as web application framework, [Gorm](https://gorm.io/) as OR mapper and [Zap logger](https://pkg.go.dev/go.uber.org/zap) as logger.
