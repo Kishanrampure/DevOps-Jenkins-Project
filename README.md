@@ -15,10 +15,6 @@ If you would like to develop a web application using golang, please feel free to
 Perform the following steps:
 1. Download and install [Visual Studio Code(VS Code)](https://code.visualstudio.com/).
 1. Download and install [Golang](https://golang.org/).
-1. Get the source code of this repository by the following command.
-    ```bash
-    go install github.com/ybkuroki/go-webapp-sample@latest
-    ```
 
 ## Starting Server
 There are 2 methods for starting server.
@@ -170,6 +166,3 @@ This sample uses the following libraries.
 
 ## Contribution
 Please read [CONTRIBUTING.md](https://github.com/ybkuroki/go-webapp-sample/blob/master/CONTRIBUTING.md) for proposing new functions, reporting bugs and submitting pull requests before contributing to this repository.
-
-## License
-The License of this sample is *MIT License*.
