@@ -27,12 +27,9 @@ var staticFile embed.FS
 //go:embed resources/config/messages.properties
 var propsFile embed.FS
 
-// @title go-webapp-sample API
+// @title go-webapp-project API
 // @version 1.5.1
-// @description This is API specification for go-webapp-sample project.
-
-// @license.name MIT
-// @license.url https://opensource.org/licenses/mit-license.php
+// @description This is API specification for go-webapp-project.
 
 // @host localhost:8080
 // @BasePath /api
